@@ -1,0 +1,17 @@
+@media (max-width: 300px){
+    .paragrafo {
+        color: red;
+        /* text-shadow: 1px 3px 2px black; */
+        font-size: 1rem;
+    }
+
+    .paragrafo2{
+        color:red
+    }
+    .section {
+        width: 60%;
+    }
+    .section p {
+        font-size: 2rem;
+    }
+}
